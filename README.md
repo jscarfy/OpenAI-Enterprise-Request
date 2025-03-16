@@ -49,7 +49,7 @@ I am requesting **both OpenAI Enterprise API and ChatGPT Enterprise access** to 
 ---
 
 ## 🔹 Next Steps  
-📌 **GitHub Repository:** [Insert Your GitHub Link Here]  
+📌 **GitHub Repository:** https://jscarfy.github.io
 📌 **Formal Request Sent to OpenAI:** [https://help.openai.com](https://help.openai.com)  
 📌 **Follow-Up Post on Twitter/X:** [https://twitter.com/OpenAI](https://twitter.com/OpenAI)  
 📌 **Applying for OpenAI Researcher Access Program:** [https://openai.com/researcher-access-program](https://openai.com/researcher-access-program)  
@@ -58,8 +58,8 @@ I am requesting **both OpenAI Enterprise API and ChatGPT Enterprise access** to 
 
 ## 🔹 Contact Information  
 📌 **Research Page:** [https://jscarfy.github.io/research.html](https://jscarfy.github.io/research.html)  
-📌 **GitHub Profile:** [Insert Your GitHub Profile Link]  
-📌 **Twitter/X:** [Insert Your Twitter Handle]  
+📌 **GitHub Profile:** https://jscarfy.github.io
+📌 **Twitter/X:** https://x.com/yangpujustins?s=21
 
 ---
 
